@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <p>Chrisgeeq learning Docker, DevOps in a bit !</p>
+      <p>Chrisgeeq learning Docker, DevOps engineer a bit !</p>
     </div>
   );
 }
